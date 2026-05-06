@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    "terminal.integrated.enableWin32InputMode": true,
+    "terminal.integrated.initialHintCopilotCli": true
+}
